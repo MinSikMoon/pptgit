@@ -1,2 +1,2 @@
 ## SlideShare (Image link to SlideShare Page)
-[![SlideShare](https://user-images.githubusercontent.com/21155325/46902783-358d3480-cf06-11e8-9650-28728bfca1e6.png)](https://www.slideshare.net/MinSikMoon/git-118883052)
+[![SlideShare](https://user-images.githubusercontent.com/21155325/48909487-bf8ace80-eeb0-11e8-8a87-bfe32f531167.png)](https://www.slideshare.net/MinSikMoon/git-118883052)
